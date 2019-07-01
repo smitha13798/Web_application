@@ -5,7 +5,7 @@ Web application to access employee database
 EMPLOYEE MANAGEMENT SYSTEM
 
 Project Description:
-This Application Provide the Employee Self Service Employee Management
+This Application provides the Employee a Self Service Employee Management
 
 Type Of Application
 Intranet (Multi User System )
